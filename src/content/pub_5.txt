@@ -1,0 +1,1 @@
+        {"name":"Last Pub Standing", "lon" : "1.29945880000002","lat" : "52.6287968","triggerDistance" : "30"}

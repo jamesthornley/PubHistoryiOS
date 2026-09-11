@@ -1,0 +1,88 @@
+// !$*UTF8*$!
+{
+	01FB865C169E2D8B00A0A1A8 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = E3BABA8C1A5FD70E00597E7C /* Derbyshire */;
+		activeTarget = 01FB8664169E2D8B00A0A1A8 /* Derbyshire */;
+		codeSenseManager = E3BABAD91A5FD71300597E7C /* Code sense */;
+		executables = (
+			E3BABA8C1A5FD70E00597E7C /* Derbyshire */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 442488591;
+			PBXWorkspaceStateSaveDate = 442488591;
+		};
+		sourceControlManager = E3BABAD81A5FD71300597E7C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	01FB8664169E2D8B00A0A1A8 /* Derbyshire */ = {
+		activeExec = 0;
+		executables = (
+			E3BABA8C1A5FD70E00597E7C /* Derbyshire */,
+		);
+	};
+	E3BABA8C1A5FD70E00597E7C /* Derbyshire */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Derbyshire;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	E3BABAD81A5FD71300597E7C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E3BABAD91A5FD71300597E7C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

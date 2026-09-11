@@ -1,0 +1,1 @@
+        {"name":"The Bell Hotel", "lon" : "1.29532169999993","lat" : "52.6273277","triggerDistance" : "30"}

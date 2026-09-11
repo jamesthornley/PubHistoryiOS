@@ -1,0 +1,1 @@
+        {"name":"St Andrews Brew House", "lon" : "1.29554080000003","lat" : "52.6306676","triggerDistance" : "30"}

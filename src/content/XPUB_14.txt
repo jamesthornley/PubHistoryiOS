@@ -1,0 +1,6 @@
+{
+  "lat" : "51.915578",
+  "name" : "The Horse and Jockey ",
+  "lon" : "-2.585057",
+  "triggerDistance" : "15"
+}

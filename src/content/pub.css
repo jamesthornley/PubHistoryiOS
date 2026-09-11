@@ -1,0 +1,121 @@
+.swipe
+{
+  overflow: hidden;
+  visibility: hidden;
+  position: relative;
+}
+.swipe-wrap
+{
+  overflow: hidden;
+  position: relative;
+  
+  text-align:center;
+  font-size:13px;
+  color:#4A4D57;
+  background-color:#e5e5e5;
+}
+
+.swipe-wrap > div
+{
+    float:left;
+    width:100%;
+    position: relative;
+}
+.swipe-wrap img
+{
+    max-width: 70%;
+    margin-top:10px;
+}
+
+body
+{
+    background-color:#FFFFFF;
+    font-size:18px;
+    font-family:sans-serif;
+
+    color:#153638;
+}
+
+h2
+{
+
+    font-size:22px;
+    color:#76A300;
+    margin-top:5px;
+}
+h3
+{
+
+    font-size:22px;
+    color:#ff8d3f;
+    text-align:center;
+    margin-top:10px;
+}
+
+h4
+{
+    font-size:20px;
+}
+
+.img-container
+{
+    position: relative;
+    left: 0;
+    overflow:hidden;
+}
+
+.outer-div
+{
+
+    max-width: 100%;
+}
+
+.link
+{
+    color:#ff8d3f;
+    text-decoration:none;
+}
+
+.nav
+{
+    text-align:center;
+    list-style: none;
+    margin: 0 ;
+    padding: 0 ;
+
+}
+.nav li
+{
+    
+    margin-left: 6px;
+    font-weight: 200;
+    font-size:12px;
+    color:#00bb61;
+    display:inline-block;
+}
+
+
+.dot
+{
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 4px;
+    background-color: #666;
+    margin: 3px;
+    margin-top: 10px;
+}
+
+.dot:hover
+{
+    background-color: #999;
+}
+
+.selected .dot
+{
+    background-color: #F29301;
+}
+
+
+
+

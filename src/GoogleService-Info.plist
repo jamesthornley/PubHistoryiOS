@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>316111933473-d4uchj2un5g6bua96elenll4d5s34481.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.316111933473-d4uchj2un5g6bua96elenll4d5s34481</string>
+	<key>API_KEY</key>
+	<string>AIzaSyADo6KLJkriDru_4DeKzZzOJ0s8rE-s_Og</string>
+	<key>GCM_SENDER_ID</key>
+	<string>316111933473</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>uk.co.pubhat.norwich</string>
+	<key>PROJECT_ID</key>
+	<string>ross-pub-history-ale-trail</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ross-pub-history-ale-trail.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:316111933473:ios:4862eb537092d49e</string>
+	<key>DATABASE_URL</key>
+	<string>https://ross-pub-history-ale-trail.firebaseio.com</string>
+</dict>
+</plist>

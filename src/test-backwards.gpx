@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="AllTrails https://www.alltrails.com/ - test" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>test</name>
+    <link href="https://www.gpsies.com/">
+      <text>test on AllTrails</text>
+    </link>
+    <time>2020-03-07T14:51:24Z</time>
+  </metadata>
+  <wpt lat="51.91398440" lon="-2.58356280">
+    <ele>51.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91395540" lon="-2.58293110">
+    <ele>48.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91394010" lon="-2.58279360">
+    <ele>47.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91391820" lon="-2.58265080">
+    <ele>46.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91386940" lon="-2.58229000">
+    <ele>46.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91383590" lon="-2.58198490">
+    <ele>45.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91379910" lon="-2.58130430">
+    <ele>46.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91464620" lon="-2.58016710">
+    <ele>45.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91475210" lon="-2.58022070">
+    <ele>43.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91501680" lon="-2.58032800">
+    <ele>41.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91518230" lon="-2.58036020">
+    <ele>40.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91532130" lon="-2.58024220">
+    <ele>39.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91543130" lon="-2.58013350">
+    <ele>38.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91550160" lon="-2.57998200">
+    <ele>38.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91579270" lon="-2.58014960">
+    <ele>36.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91578940" lon="-2.58018850">
+    <ele>36.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91575140" lon="-2.58015770">
+    <ele>36.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91567610" lon="-2.58011540">
+    <ele>36.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91550160" lon="-2.57998200">
+    <ele>38.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91545820" lon="-2.58018990">
+    <ele>38.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91548100" lon="-2.58043530">
+    <ele>37.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91559270" lon="-2.58085630">
+    <ele>36.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91571550" lon="-2.58144710">
+    <ele>36.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91577710" lon="-2.58171600">
+    <ele>36.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91585070" lon="-2.58204460">
+    <ele>36.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91553220" lon="-2.58236650">
+    <ele>39.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91542880" lon="-2.58252200">
+    <ele>40.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91508800" lon="-2.58305050">
+    <ele>43.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91477200" lon="-2.58347150">
+    <ele>47.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91474550" lon="-2.58348230">
+    <ele>47.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91453700" lon="-2.58379340">
+    <ele>51.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91437490" lon="-2.58390070">
+    <ele>52.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91430210" lon="-2.58454440">
+    <ele>55.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91433520" lon="-2.58497360">
+    <ele>56.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91432200" lon="-2.58542420">
+    <ele>58.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91420940" lon="-2.58562800">
+    <ele>59.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91409030" lon="-2.58584260">
+    <ele>60.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91410360" lon="-2.58601430">
+    <ele>60.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91418300" lon="-2.58623960">
+    <ele>59.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91429710" lon="-2.58654130">
+    <ele>58.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91420940" lon="-2.58673040">
+    <ele>59.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91429710" lon="-2.58654130">
+    <ele>58.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91416310" lon="-2.58617520">
+    <ele>60.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91411020" lon="-2.58600350">
+    <ele>60.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91408370" lon="-2.58585330">
+    <ele>60.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91433520" lon="-2.58545640">
+    <ele>59.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91467270" lon="-2.58606790">
+    <ele>56.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91465290" lon="-2.58630390">
+    <ele>55.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91477860" lon="-2.58634690">
+    <ele>53.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91484150" lon="-2.58630930">
+    <ele>53.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91485140" lon="-2.58647830">
+    <ele>51.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91486460" lon="-2.58666870">
+    <ele>50.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91487120" lon="-2.58687260">
+    <ele>48.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91485140" lon="-2.58714080">
+    <ele>46.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91485140" lon="-2.58750560">
+    <ele>42.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91486460" lon="-2.58783820">
+    <ele>38.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91489770" lon="-2.58800980">
+    <ele>36.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91399110" lon="-2.58942600">
+    <ele>33.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91360720" lon="-2.59053110">
+    <ele>33.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91339540" lon="-2.59124990">
+    <ele>34.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91346160" lon="-2.59241940">
+    <ele>33.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91359400" lon="-2.59311680">
+    <ele>34.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91494400" lon="-2.59612080">
+    <ele>32.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91474550" lon="-2.59695770">
+    <ele>33.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91514920" lon="-2.59811640">
+    <ele>34.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91501680" lon="-2.59833100">
+    <ele>34.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="51.91496390" lon="-2.59871720">
+    <ele>35.000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+</gpx>
+
