@@ -14,7 +14,7 @@
 		1A3EC5611977DB7600945552 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1A3EC5601977DB7600945552 /* AVFoundation.framework */; };
 		1A47BE8918C70F6C00B9B109 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1A47BE8818C70F6C00B9B109 /* AudioToolbox.framework */; };
 		1A47BF0A18C8595400B9B109 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1A47BF0918C8595400B9B109 /* QuartzCore.framework */; };
-		1A50FAA22E68409F0070C6EF /* MyTrailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A50FAA12E68409F0070C6EF /* MyTrailViewController.m */; };
+		1A50FAA22E68409F0070C6EF /* MyTrailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A50FAA32E68409F0070C6EF /* MyTrailViewController.swift */; };
 		1A5AF728262C86D300E63813 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1A5AF727262C86D300E63813 /* WebKit.framework */; };
 		1A8EF3E92620675100C4BD08 /* beep.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1A8EF3E82620675100C4BD08 /* beep.mp3 */; };
 		1A9BEDDB261DA0BC00ED61F8 /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 1A9BEDDA261DA0BC00ED61F8 /* libsqlite3.tbd */; };
@@ -152,6 +152,7 @@
 		1A47BF0918C8595400B9B109 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		1A50FAA02E68409F0070C6EF /* MyTrailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyTrailViewController.h; sourceTree = "<group>"; };
 		1A50FAA12E68409F0070C6EF /* MyTrailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyTrailViewController.m; sourceTree = "<group>"; };
+		1A50FAA32E68409F0070C6EF /* MyTrailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTrailViewController.swift; sourceTree = "<group>"; };
 		1A5AF727262C86D300E63813 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
 		1A73A3D22D9498CA004002EC /* London-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "London-Bridging-Header.h"; sourceTree = "<group>"; };
 		1A8EF3E82620675100C4BD08 /* beep.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = beep.mp3; sourceTree = "<group>"; };
@@ -593,6 +594,7 @@
 			isa = PBXGroup;
 			children = (
 				1A50FAA02E68409F0070C6EF /* MyTrailViewController.h */,
+				1A50FAA32E68409F0070C6EF /* MyTrailViewController.swift */,
 				1A50FAA12E68409F0070C6EF /* MyTrailViewController.m */,
 				1AE84859261DA72600ABE83C /* PubListFlowLayout.m */,
 				1AE8485A261DA72600ABE83C /* PubListController.m */,
@@ -827,7 +829,7 @@
 				1AE8488B261DA72600ABE83C /* SendServerData.m in Sources */,
 				1AE84894261DA72600ABE83C /* MapHelper.m in Sources */,
 				1AE848F6261DA72600ABE83C /* NotesListCellTableViewCell.m in Sources */,
-				1A50FAA22E68409F0070C6EF /* MyTrailViewController.m in Sources */,
+				1A50FAA22E68409F0070C6EF /* MyTrailViewController.swift in Sources */,
 				1AE84890261DA72600ABE83C /* MapImages.m in Sources */,
 				1AE848FD261DA72600ABE83C /* GenericWebViewController.m in Sources */,
 				1AE848FA261DA72600ABE83C /* PubListCell.m in Sources */,

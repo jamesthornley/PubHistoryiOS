@@ -9,19 +9,24 @@
 #ifndef London_Bridging_Header_h
 #define London_Bridging_Header_h
 
-// MyProject-Bridging-Header.h
+#import "BaseViewController.h"
 #import "Note.h"
 #import "NoteList.h"
 #import "UserList.h"
 #import "Pub.h"
 #import "TrailList.h"
+#import "TeamList.h"
 #import "AppDelegate.h"
+#import "AppConfiguration.h"
+#import "GPSLocation.h"
 #import "PubTabViewController.h"
 #import "PHAleTrailFactory.h"
 #import "SectionHeadingTableViewCell.h"
 #import "NotesListCellTableViewCell.h"
 #import "PHLogger.h"
 #import "MoreViewController.h"
+#import "SendServerThread.h"
+#import "BaseDate.h"
 
 
 
